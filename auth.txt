@@ -1,0 +1,3 @@
+Organisation details
+email: app.snap.hub@gmail.com
+password: Snaphub@organization.com23
